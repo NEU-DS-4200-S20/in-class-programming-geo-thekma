@@ -52,3 +52,11 @@
 .label {
   font:bold 12px sans-serif;
 }
+#boundary path {
+  stroke-dasharray: 3 5;
+}
+
+path {
+  fill: none;
+  stroke: black;
+}
